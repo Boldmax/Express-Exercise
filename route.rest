@@ -1,0 +1,14 @@
+GET http://localhost:350
+
+
+###
+
+POST http://localhost:350
+Content-Type: application/json
+
+{
+    "name": "Olabode Olalekan"
+}
+
+###
+DELETE http://localhost:350/
